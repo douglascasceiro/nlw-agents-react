@@ -88,3 +88,4 @@ src/
 ---
 
 Desenvolvido durante o evento NLW da Rocketseat
+Por Douglas Casceiro
